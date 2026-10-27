@@ -1,0 +1,359 @@
+.home,
+.home * {
+  box-sizing: border-box;
+}
+.home {
+  background: #dcc5ae;
+  opacity: 0.9;
+  height: 1320px;
+  position: relative;
+  overflow: hidden;
+}
+.geg-1 {
+  opacity: 0.4;
+  width: 1320px;
+  height: 1440px;
+  position: absolute;
+  left: 1436px;
+  top: 0px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+  object-fit: cover;
+}
+.vector-8 {
+  width: 103.16px;
+  height: 424.62px;
+  position: absolute;
+  left: 1141.4px;
+  top: 136.05px;
+  overflow: visible;
+}
+._1 {
+  width: 520px;
+  height: 595px;
+  position: absolute;
+  left: 456px;
+  top: 354px;
+  object-fit: cover;
+  aspect-ratio: 520/595;
+}
+._2026-10-11-17-44-35-1 {
+  width: 331.09px;
+  height: 262.46px;
+  position: absolute;
+  left: 982.08px;
+  top: 80px;
+  transform-origin: 0 0;
+  transform: rotate(11.444deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 331.09/262.46;
+}
+.vector-11 {
+  width: 504.74px;
+  height: 122.07px;
+  position: absolute;
+  left: 643.48px;
+  top: 100.92px;
+  transform: translate(-9.41px, 28.16px);
+  overflow: visible;
+}
+.pa {
+  color: #590000;
+  text-align: left;
+  font-family: "Gaegu-Bold", sans-serif;
+  font-size: 48px;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  position: absolute;
+  left: 1022.9px;
+  top: 304px;
+  transform-origin: 0 0;
+  transform: rotate(11.44deg) scale(1, 1);
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+  aspect-ratio: 181.28/271.92;
+}
+.sticker-letters-2-download-premium-png-of-note-paper-png-sticker-torn-paper-transparent-1 {
+  width: 181.28px;
+  height: 271.92px;
+  position: absolute;
+  left: 526.28px;
+  top: 124px;
+  transform-origin: 0 0;
+  transform: rotate(7.879deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 181.28/271.92;
+}
+.discipline {
+  color: #590000;
+  text-align: left;
+  font-family: "Gaegu-Bold", sans-serif;
+  font-size: 24px;
+  letter-spacing: -0.1em;
+  font-weight: 700;
+  position: absolute;
+  left: 556.25px;
+  top: 215.49px;
+  width: 96.82px;
+  height: 35.02px;
+  transform-origin: 0 0;
+  transform: rotate(7.879deg) scale(1, 1);
+}
+.devotion {
+  color: #590000;
+  text-align: left;
+  font-family: "Gaegu-Bold", sans-serif;
+  font-size: 24px;
+  letter-spacing: -0.1em;
+  font-weight: 700;
+  position: absolute;
+  left: 551.16px;
+  top: 252.22px;
+  width: 84.46px;
+  height: 23.69px;
+  transform-origin: 0 0;
+  transform: rotate(7.879deg) scale(1, 1);
+}
+.repetition {
+  color: #710000;
+  text-align: left;
+  font-family: "Gaegu-Bold", sans-serif;
+  font-size: 24px;
+  letter-spacing: -0.1em;
+  font-weight: 700;
+  position: absolute;
+  left: 546.5px;
+  top: 285.89px;
+  width: 90.64px;
+  height: 29.87px;
+  transform-origin: 0 0;
+  transform: rotate(7.879deg) scale(1, 1);
+}
+.international-safety-pin-day-1 {
+  width: 177px;
+  height: 159px;
+  position: absolute;
+  left: 90px;
+  top: 641px;
+  object-fit: cover;
+  aspect-ratio: 177/159;
+}
+._2026-10-11-17-44-49-1 {
+  width: 297.52px;
+  height: 347.1px;
+  position: absolute;
+  left: 864.99px;
+  top: 904px;
+  transform-origin: 0 0;
+  transform: rotate(6.118deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 297.52/347.1;
+}
+._2026-10-11-18-59-49-1 {
+  width: 429.73px;
+  height: 302.54px;
+  position: absolute;
+  left: 982.38px;
+  top: 516px;
+  transform-origin: 0 0;
+  transform: rotate(3.862deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 429.73/302.54;
+}
+._2026-10-11-17-49-26-1 {
+  width: 336.55px;
+  height: 394.04px;
+  position: absolute;
+  left: 73px;
+  top: 784.21px;
+  transform-origin: 0 0;
+  transform: rotate(-13.612deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 336.55/394.04;
+}
+.vector-4 {
+  width: 76.28px;
+  height: 623.33px;
+  position: absolute;
+  left: 293.52px;
+  top: 124.29px;
+  overflow: visible;
+}
+.vector-9 {
+  width: 563.15px;
+  height: 401.75px;
+  position: absolute;
+  left: 373.79px;
+  top: 348.7px;
+  overflow: visible;
+}
+._2026-10-11-19-01-08-1 {
+  width: 456px;
+  height: 319.59px;
+  position: absolute;
+  left: 73px;
+  top: 101.43px;
+  transform-origin: 0 0;
+  transform: rotate(-2.693deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 456/319.59;
+}
+.international-safety-pin-day-2 {
+  width: 253px;
+  height: 194px;
+  position: absolute;
+  left: 10px;
+  top: 772px;
+  object-fit: cover;
+  aspect-ratio: 253/194;
+}
+.ballet-life {
+  color: #710000;
+  text-align: left;
+  font-family: "Gaegu-Bold", sans-serif;
+  font-size: 48px;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  position: absolute;
+  left: 160px;
+  top: 420.59px;
+  width: 333px;
+  height: 71px;
+  transform-origin: 0 0;
+  transform: rotate(-2.856deg) scale(1, 1);
+}
+.that-s-my-inspo {
+  color: #590000;
+  text-align: left;
+  font-family: "Gaegu-Bold", sans-serif;
+  font-size: 48px;
+  letter-spacing: -0.1em;
+  font-weight: 700;
+  position: absolute;
+  left: 174px;
+  top: 1092.3px;
+  width: 417.73px;
+  height: 71.59px;
+  transform-origin: 0 0;
+  transform: rotate(-13.61deg) scale(1, 1);
+}
+.bias {
+  color: #590000;
+  text-align: left;
+  font-family: "Gaegu-Bold", sans-serif;
+  font-size: 48px;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  position: absolute;
+  left: 1265.15px;
+  top: 840.13px;
+  transform-origin: 0 0;
+  transform: rotate(3.86deg) scale(1, 1);
+}
+.pure-daily-life {
+  color: #590000;
+  text-align: left;
+  font-family: "Gaegu-Bold", sans-serif;
+  font-size: 48px;
+  letter-spacing: -0.1em;
+  font-weight: 700;
+  position: absolute;
+  left: 849.4px;
+  top: 1189px;
+  transform-origin: 0 0;
+  transform: rotate(6.12deg) scale(1, 1);
+}
+._15-1 {
+  width: 119px;
+  height: 212px;
+  position: absolute;
+  left: 337px;
+  top: 599px;
+  object-fit: cover;
+  aspect-ratio: 119/212;
+}
+._15-2 {
+  width: 133.54px;
+  height: 237.4px;
+  position: absolute;
+  left: 293.71px;
+  top: -44px;
+  transform-origin: 0 0;
+  transform: rotate(14.566deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 133.54/237.4;
+}
+._15-3 {
+  width: 119px;
+  height: 212px;
+  position: absolute;
+  left: 1177px;
+  top: -10px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  object-fit: cover;
+  aspect-ratio: 119/212;
+}
+._15-4 {
+  width: 119px;
+  height: 212px;
+  position: absolute;
+  left: 1087px;
+  top: 830px;
+  object-fit: cover;
+  aspect-ratio: 119/212;
+}
+._15-5 {
+  width: 119px;
+  height: 212px;
+  position: absolute;
+  left: 1188px;
+  top: 421px;
+  object-fit: cover;
+  aspect-ratio: 119/212;
+}
+._14-1 {
+  width: 164.32px;
+  height: 164.25px;
+  position: absolute;
+  left: 825px;
+  top: 340.05px;
+  transform-origin: 0 0;
+  transform: rotate(-33.228deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 164.32/164.25;
+}
+.vector-2 {
+  width: 0.24px;
+  height: 0.49px;
+  position: absolute;
+  left: 1124.24px;
+  top: 948.68px;
+  overflow: visible;
+}
+.vector-3 {
+  width: 842.59px;
+  height: 832.48px;
+  position: absolute;
+  left: 289.29px;
+  top: 128.96px;
+  overflow: visible;
+}
+.vector-6 {
+  width: 295.86px;
+  height: 214.69px;
+  position: absolute;
+  left: 931.03px;
+  top: 357.69px;
+  overflow: visible;
+}
+.vector-10 {
+  width: 751.16px;
+  height: 223.74px;
+  position: absolute;
+  left: 374.54px;
+  top: 746.64px;
+  overflow: visible;
+}
